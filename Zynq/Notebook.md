@@ -5,7 +5,6 @@ Notebook for Zynq
 ----------
 `ps7_gpio_0` was found in dts made by SDK.
 
-`
 		ps7_gpio_0: ps7-gpio@e000a000 {
 			#gpio-cells = <2>;
 			compatible = "xlnx,ps7-gpio-1.00.a";
@@ -17,7 +16,6 @@ Notebook for Zynq
 			interrupts = < 0 20 4 >;
 			reg = < 0xe000a000 0x1000 >;
 		} ;
-`
 
 This was used to build the block of `ad9516_3` in dts.
 
