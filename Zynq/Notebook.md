@@ -3,7 +3,7 @@ Notebook for Zynq
 
 2013.10.17
 ----------
-`ps7_gpio_0` was found in dts made by SDK.
+`ps7_gpio_0` was found in device-tree source file made by Xilinx SDK 2013.2.
 
 	ps7_gpio_0: ps7-gpio@e000a000 {
 		#gpio-cells = <2>;
@@ -17,7 +17,7 @@ Notebook for Zynq
 		reg = < 0xe000a000 0x1000 >;
 	} ;
 
-This was used to build the block of `ad9516_3` in dts.
+This was used to build the block of `ad9516_3` in device-tree source file.
 
 	ad9516_3 {
 		compatible = "xjtu,ad9516-gpio";
