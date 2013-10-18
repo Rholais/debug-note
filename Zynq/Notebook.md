@@ -1,6 +1,11 @@
 Notebook for Zynq
 =================
 
+2013.10.19
+----------
+* Q: Windows 8.1 broke down as CRITICAL_STRUCTURE_CORRUPTION error.
+* A: There are conflicts between Windows 8.1 and Oracle VM VirtualBox. 
+
 2013.10.18
 ----------
 * Q: Ubuntu 13.10 Upgrade process was interrupted after it installed `libgc1c2`.
