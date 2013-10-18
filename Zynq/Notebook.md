@@ -1,6 +1,11 @@
 Notebook for Zynq
 =================
 
+2013.10.18
+----------
+* Q: Ubuntu 13.10 Upgrade process was interrupted after it installed `libgc1c2`.
+* A: Forced the system shutdown and recovered it.
+
 2013.10.17
 ----------
 `ps7_gpio_0` was found in device-tree source file made by Xilinx SDK 2013.2.
