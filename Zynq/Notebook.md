@@ -4,7 +4,7 @@ Notebook for Zynq
 2013.10.20
 ----------
 * Q: Unidentified field in ovf 2.0 file.
-	*A: Derive to ovf 1.0 file.
+	* A: Derive to ovf 1.0 file.
 
 2013.10.19
 ----------
