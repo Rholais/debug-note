@@ -1,9 +1,14 @@
 Notebook for Zynq
 =================
 
+2013.10.20
+----------
+* Q: Unidentified field in ovf 2.0 file.
+	*A: Derive to ovf 1.0 file.
+
 2013.10.19
 ----------
-* Q: Can't convert VirtualBox VM to Workstation VM.
+* Q: Can't move VirtualBox VM to Workstation VM.
 	* A: Workstation 10.0 only support *.ova | *.ovf | *.vmc | *.vmtm | *.vmx file.
 
 * Q: Windows 8.1 broke down as CRITICAL_STRUCTURE_CORRUPTION error.
