@@ -4,15 +4,15 @@ Notebook for Zynq
 2013.10.19
 ----------
 * Q: Can't convert VirtualBox VM to Workstation VM.
-* A: Workstation 10.0 only support *.ova | *.ovf | *.vmc | *.vmtm | *.vmx file.
+	* A: Workstation 10.0 only support *.ova | *.ovf | *.vmc | *.vmtm | *.vmx file.
 
 * Q: Windows 8.1 broke down as CRITICAL_STRUCTURE_CORRUPTION error.
-* A: There are conflicts between Windows 8.1 and Oracle VM VirtualBox. 
+	* A: There are conflicts between Windows 8.1 and Oracle VM VirtualBox. 
 
 2013.10.18
 ----------
 * Q: Ubuntu 13.10 Upgrade process was interrupted after it installed `libgc1c2`.
-* A: Forced the system shutdown and recovered it.
+	* A: Forced the system shutdown and recovered it.
 
 2013.10.17
 ----------
