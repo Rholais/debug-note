@@ -3,6 +3,9 @@ Notebook for Zynq
 
 2013.10.19
 ----------
+* Q: Can't convert VirtualBox VM to Workstation VM.
+* A: Workstation 10.0 only support *.ova | *.ovf | *.vmc | *.vmtm | *.vmx file.
+
 * Q: Windows 8.1 broke down as CRITICAL_STRUCTURE_CORRUPTION error.
 * A: There are conflicts between Windows 8.1 and Oracle VM VirtualBox. 
 
