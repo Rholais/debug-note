@@ -3,8 +3,7 @@ Notebook for Zynq
 
 2013.10.20
 ----------
-* Q: Make full screen.
-	* A:
+Install VMware Tool.
 	
 	./vmware-tools-distrib/vmware-install.pl
 	.//usr/bin/vmware-user
