@@ -3,6 +3,12 @@ Notebook for Zynq
 
 2013.10.20
 ----------
+* Q: Make full screen.
+	* A:
+	
+	./vmware-tools-distrib/vmware-install.pl
+	.//usr/bin/vmware-user
+
 * Q: Unidentified field in ovf 2.0 file.
 	* A: Derive to ovf 1.0 file.
 
