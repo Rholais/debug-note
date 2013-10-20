@@ -8,7 +8,7 @@ Notebook for Zynq
 	
 	./vmware-tools-distrib/vmware-install.pl
 	.//usr/bin/vmware-user
-
+	
 * Q: Unidentified field in ovf 2.0 file.
 	* A: Derive to ovf 1.0 file.
 
