@@ -1,6 +1,11 @@
 Notebook for Zynq
 =================
 
+2013.11.24
+----------
+* Q: Making reference nic `error: netlink/genl/genl.h: No such file or directory`
+	* A: `apt-get install libnl-dev libpopt-dev` 
+
 2013.10.20
 ----------
 Install VMware Tool.
