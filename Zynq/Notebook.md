@@ -1,6 +1,10 @@
 Notebook for Zynq
 =================
 
+2013.11.25
+
+	deb ftp://ubuntu.csie.nctu.edu.tw/ubuntu/ubuntu trusty main	
+
 2013.11.24
 ----------
 * Q: Making `reference_nic` `driver_ctrl.c:7:31: fatal error: netlink/genl/genl.h: No such file or directory`
