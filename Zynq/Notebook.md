@@ -2,8 +2,9 @@ Notebook for Zynq
 =================
 
 2013.11.25
-
-	deb ftp://ubuntu.csie.nctu.edu.tw/ubuntu/ubuntu trusty main	
+----------
+* Q: Use `apt-get`
+	* A: `deb ftp://ubuntu.csie.nctu.edu.tw/ubuntu/ubuntu trusty main`	
 
 2013.11.24
 ----------
