@@ -1,12 +1,14 @@
-Five Sentences
-==============
+#Five Sentences
+
+### by 电信硕23 — 李浩成 — 2010035108
+
+----------
 
 Punctuation marks are essential when you are writing. They show the reader where sentences start and finish and if they are used properly they make your writing easy to understand. This section gives practical guidance on how to use semicolons, dashes, and other types of punctuation correctly, which always confused me, to make your writing always be clear and effective.
 
 
 
-Semicolon 
----------
+## Semicolon 
 
 ![](http://www.englishclub.com/images/writing/images/semi-colon.gif) ![](http://www.englishclub.com/images/writing/images/fonts-semicolon.gif)
 
@@ -18,8 +20,12 @@ Semicolon
 
 > Philip knew that he was flirting with Mildred, and he was horribly jealous of him; but he look comfort in the coldness of her temperament, which otherwise distressed him; and thinking her incapable of passion, he looked upon his rival as no better off than himself. *[W. SOMERSET MAUGHAM — Of Human Bondage]*
 
-Colon
------
+#### *Have a try:*
+
+	There is a large amount of pirated books o night stalls; among
+	 them are fake copies of our favorite painters’ masterpieces.
+
+## Colon
 
 ![](http://www.englishclub.com/images/writing/images/colon.gif) ![](http://www.englishclub.com/images/writing/images/fonts-colon.gif)
 
@@ -31,8 +37,12 @@ Colon
 
 > She was in a friendly mood that evening, and talkative: she told him that her parents were dead; she gave him to understand that she did not have to earn her living, but worked for amusement. *[W. SOMERSET MAUGHAM — Of Human Bondage]*
 
-Quotation Marks
----------------
+#### *Have a try:*
+
+	There are unregistered copy of various software in our 
+	computers: ACDSee 17, VAIO Gate, VMware® Workstation, etc.
+
+## Quotation Marks
 
 ![](http://www.englishclub.com/images/writing/images/quotes-double.gif) ![](http://www.englishclub.com/images/writing/images/fonts-quotation-marks.gif)
 
@@ -44,8 +54,12 @@ Quotation Marks
 
 > "So long as you are happy," she retorted. *[W. SOMERSET MAUGHAM — Of Human Bondage]*
 
-Dash
-----
+#### *Have a try:*
+
+	“The public have already taken piracy for granted,” an unnamed
+	 officer of the Ministry of Science and Technology said.
+
+## Dash
 
 ![](http://www.englishclub.com/images/writing/images/dash.gif) ![](http://www.englishclub.com/images/writing/images/fonts-dash.gif)
 
@@ -57,24 +71,14 @@ Dash
 
 > Though she never mentioned the change — for she did not take any conscious notice of it — it affected her nevertheless: she became more confidential with him; she took her little grievances to him, and she always had some grievance against the manageress of the shop, one of her fellow waitresses, or her aunt; she was talkative enough now, and though she never said anything that was not trivial Philip was never tired of listening to her. *[W. SOMERSET MAUGHAM — Of Human Bondage]*
 
-eg0
+#### *Have a try:*
 
-	They argue that with their deep connection with the real 
-	society — not the dummy on the Internet — youngsters can get
-	 an increasing amount of comprehensions on social demands 
-	and their own goals of career.
+	They argue that youngsters can get an increasing amount of 
+	comprehensions on social demands and their own goals of career
+	 with their deep connection with the real society — not the 
+	dummy on the Internet.
 
-eg1
-
-	On the opposite side, more specialists who engaged in education
-	 pursuits agree on the appeal that high school graduates are 
-	supposed to go to universities as soon as possible because the
-	 years around twenty are the golden period of learning for 
-	mankind and any other ways of using these years – including 
-	working and traveling – are waste of time.
-
-Hyphen
-------
+## Hyphen
 
 ![](http://www.englishclub.com/images/writing/images/hyphen.gif) ![](http://www.englishclub.com/images/writing/images/fonts-hyphen.gif)
 
@@ -87,11 +91,15 @@ Hyphen
 
 > Sometimes he thought he would console his sorrow by looking at pictures, but he walked through the National Gallery like a sight-seer; and no picture called up in him a thrill of emotion. *[W. SOMERSET MAUGHAM — Of Human Bondage]*
 
-*FINE.*
-=======
+#### *Have a try:*
 
-Thanks For Collaborating!
--------------------------
+	At stores of audio-visual, which is well known as AV, we can 
+	find tracks of pirated DVDs of recent released movies; many 
+	movies which are on the coming-soon-list can also be found.
+
+# *FINE.*
+
+## Thanks For Collaborating!
 
 [writingguide — Sentence Variety and Elegant Sentences]: http://writingguide.wikispaces.com/Sentence+Variety+and+Elegant+Sentences "TOCLICK"
 
