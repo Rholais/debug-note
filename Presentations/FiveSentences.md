@@ -97,16 +97,16 @@ Punctuation marks are essential when you are writing. They show the reader where
 	find tracks of pirated DVDs of recent released movies; many 
 	movies which are on the coming-soon-list can also be found.
 
-# *Fine*
-
 ## Thanks For Collaborating!
 
 ######You can visit this page at: [Github.com/Rholais/DebugNote/blob/master/Presentations/FiveSentences.md]
 
-[writingguide — Sentence Variety and Elegant Sentences]: http://writingguide.wikispaces.com/Sentence+Variety+and+Elegant+Sentences ""
+# *Fine*
 
-[W. SOMERSET MAUGHAM — Of Human Bondage]: http://www.amazon.cn/dp/B00A72W798 ""
+[writingguide — Sentence Variety and Elegant Sentences]: http://writingguide.wikispaces.com/Sentence+Variety+and+Elegant+Sentences "Sentence Variety and Elegant Sentences"
 
-[English Club — Quotation Marks]: http://www.englishclub.com/writing/punctuation-quotation-marks.htm ""
+[W. SOMERSET MAUGHAM — Of Human Bondage]: http://www.amazon.cn/dp/B00A72W798 "Of Human Bondage"
 
-[Github.com/Rholais/DebugNote/blob/master/Presentations/FiveSentences.md]: https://github.com/Rholais/DebugNote/blob/master/Presentations/FiveSentences.md ""
+[English Club — Quotation Marks]: http://www.englishclub.com/writing/punctuation-quotation-marks.htm "Quotation Marks"
+
+[Github.com/Rholais/DebugNote/blob/master/Presentations/FiveSentences.md]: https://github.com/Rholais/DebugNote/blob/master/Presentations/FiveSentences.md "FiveSentences"
