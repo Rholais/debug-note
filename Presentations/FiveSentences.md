@@ -4,9 +4,9 @@
 
 ----------
 
-Punctuation marks are essential when you are writing. They show the reader where sentences start and finish and if they are used properly they make your writing easy to understand. This section gives practical guidance on how to use semicolons, dashes, and other types of punctuation correctly, which always confused me, to make your writing always be clear and effective.
+![](http://upload.wikimedia.org/wikipedia/en/4/41/OfHumanBondage.jpg)
 
-
+Punctuation marks are essential when you are writing. They show the reader where sentences start and finish and if they are used properly they make your writing easy to understand.
 
 ## Semicolon 
 
@@ -18,11 +18,11 @@ Punctuation marks are essential when you are writing. They show the reader where
 
 * Use a **semicolon** as a stronger division in a sentence that already contains commas:
 
-> Philip knew that he was flirting with Mildred, and he was horribly jealous of him; but he look comfort in the coldness of her temperament, which otherwise distressed him; and thinking her incapable of passion, he looked upon his rival as no better off than himself. *[W. SOMERSET MAUGHAM — Of Human Bondage]*
+> Philip knew that he was flirting with Mildred, and he was horribly jealous of him; but he took comfort in the coldness of her temperament, which otherwise distressed him; and, thinking her incapable of passion, he looked upon his rival as no better off than himself. *[W. SOMERSET MAUGHAM — Of Human Bondage]*
 
 #### *Have a try:*
 
-	There is a large amount of pirated books o night stalls; among
+	There is a large amount of pirated books on night stalls; among
 	 them are fake copies of our favorite painters’ masterpieces.
 
 ## Colon
