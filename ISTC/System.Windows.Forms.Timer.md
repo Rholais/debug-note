@@ -53,4 +53,4 @@ A **Timer** is used to raise an event at user-defined intervals. This Windows ti
 1.  Double click *Toolbox* -> *Component* -> *Timer*
 2.  Initiate `(Name)`, `Enabled` and `Interval` in *Property* Window.
 3.  Edit the method of the `Timer.Tick` message.
-4.  Edit `Enabled` and `Interval` wherever you like. **(Optional)**
+4.  Edit `Enabled` and `Interval` wherever you like. (Optional)
