@@ -47,6 +47,7 @@ A Timer is used to raise an event at user-defined intervals. This Windows timer 
       }
    }
 
+
 ##  Usage
 
 1.  Double click `Toolbox -> Component -> Timer`
