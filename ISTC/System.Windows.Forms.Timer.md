@@ -2,7 +2,7 @@
 
 ##  Remarks
 
-A *Timer* is used to raise an event at user-defined intervals. This Windows timer is designed for a single-threaded environment where UI threads are used to perform processing. It requires that the user code have a UI message pump available and always operate from the same thread, or marshal the call onto another thread.
+A **Timer** is used to raise an event at user-defined intervals. This Windows timer is designed for a single-threaded environment where UI threads are used to perform processing. It requires that the user code have a UI message pump available and always operate from the same thread, or marshal the call onto another thread.
 
 ##  Examples
 
@@ -50,8 +50,8 @@ A *Timer* is used to raise an event at user-defined intervals. This Windows time
 
 ##  Usage
 
-1.  Double click **Toolbox -> Component -> Timer**
-2.  Initiate `(Name)`, `Enabled` and `Interval` in **Property** Window.
+1.  Double click *Toolbox* -> *Component* -> *Timer*
+2.  Initiate `(Name)`, `Enabled` and `Interval` in *Property* Window.
 3.  Edit the method of the `Timer.Tick` message.
 (Optional)
 4.  Edit `Enabled` and `Interval` wherever you like.
