@@ -6,6 +6,13 @@ A **Timer** is used to raise an event at user-defined intervals. This Windows ti
 
 ##  Examples
 
+The following example implements a simple interval timer, which sets off an alarm every five seconds. When the alarm occurs, a MessageBox displays a count of the number of times the alarm has started and prompts the user as to whether the timer should continue to run.
+
+**C#**
+
+    //Source: 
+    //  http://msdn.microsoft.com/en-us/library/system.windows.forms.timer.aspx
+    //
     public class Class1 {
         static System.Windows.Forms.Timer myTimer = new System.Windows.Forms.Timer();
         static int alarmCounter = 1;
