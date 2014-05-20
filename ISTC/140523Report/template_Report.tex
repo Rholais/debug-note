@@ -2,6 +2,7 @@
 \usepackage{ctex}
 \usepackage[utf8x]{inputenc}
 \usepackage{hyperref}
+\usepackage{graphicx}
 \usepackage{listings}
 \lstset{basicstyle=\sffamily,
 keywordstyle=\bfseries,
@@ -24,7 +25,7 @@ numberstyle=\footnotesize
 \end{abstract}
 \chapter{上半学期}
 上半学期主要进行关键算法、\verb|C#|、\verb|OpenCV|、软件工程教学。
-\section{131020组会}
+\section{13-10-20 组会}
 \begin{enumerate}
 	\item 开场
 	\item 通知事情
@@ -51,7 +52,7 @@ numberstyle=\footnotesize
 	\end{itemize}
 \end{enumerate}
 
-\section{131026组会}
+\section{13-10-26 组会}
 \begin{enumerate}
 	\item 通知
 	\begin{itemize}
@@ -69,11 +70,11 @@ numberstyle=\footnotesize
 	\end{itemize}
 \end{enumerate}
 
-\section{131103组会}
+\section{13-11-03 组会}
 \begin{enumerate}
 	\item 创建 \verb|ISTC Smart Tech Community|
 	\item \verb|OpenCV| 基本数据结构
-	\lstinputlisting[language=C++]{CODE/CVSTRUCT.hpp}
+	\lstinputlisting[language=C++]{CODE/CVStruct.hpp}
 	\item \verb|OpenCV| 窗口句柄
 	\item 侵蚀算法
 	\item 软件推荐 
@@ -84,20 +85,86 @@ numberstyle=\footnotesize
 	\end{itemize}
 	
 \end{enumerate}
-	\subsection{131104资讯}
+	\subsection{13-11-04 资讯}
 		纪念印度数学家 "人脑计算机" Shakuntala Devi 84岁诞辰。
-	\subsection{131105资讯}
+	\subsection{13-11-05 资讯}
 		纪念美国工业设计先锋 Raymond Loewy 120岁诞辰。
 		
 		\href{www.raymondloewy.com/}{The Official Site of Raymond Loewy}‎
 		
-	\subsection{131106资讯}
+	\subsection{13-11-06 资讯}
 		Winter is coming, SDN as well. Here's one take on what it all means.
 		
 		\href{http://ow.ly/qy9Ei}{Software-defined networking explained - Network World}
 	
-	\subsection{131108资讯}
+	\subsection{13-11-08 资讯}
 		Nokia camera app is named as Nokia Smart Cam.
 		
-\section{131109}
+\section{13-11-09 组会}
+\begin{enumerate}
+	\item 软件工程
+		丰田凯美瑞暴冲事件系统分析。
+	\item \verb|C#| 基本语法教学
+\begin{figure}
+\centering
+\includegraphics[width=1\linewidth]{./PIC/LearnCSharp}
+\caption{CSharp 基本语法教学}
+\label{fig:LearnCSharp}
+\end{figure}
+\end{enumerate}
+
+\section{13-11-17 组会}
+\begin{enumerate}
+	\item \verb|C# Windows Form|控件
+	\begin{itemize}
+		\item[Button] 按钮
+		\item[Label] 标签
+		\item[TextBox] 文本框
+		\item[CheckBox] 多选框
+		\item[LinkLabel] 链接
+		\item[TabPage] 标签页
+	\end{itemize}
+\begin{figure}
+\centering
+\includegraphics[width=1\linewidth]{./PIC/TabPage}
+\caption{CSharp Windows Form控件：标签页教学}
+\label{fig:TabPage}
+\end{figure}
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{./PIC/TabPageO}
+\caption{CSharp Windows Form控件：标签页运行结果}
+\label{fig:TabPageO}
+\end{figure}
+\end{enumerate}
+
+\section{13.11.23 组会}
+\begin{enumerate}
+	\item \verb|C# Windows Form|控件
+	\begin{itemize}
+		\item[ComboBox] 组合框
+		
+			\verb|ComboBox| 显示与一个 \verb|ListBox| 组合的文本框，使用户可以从列表中选择项，也可以输入新值。\verb|DropDownStyle| 属性指定是否始终显示列表或者列表是否显示在下拉列表中。
+		\item[ListBox] 下拉菜单
+		
+			\verb|ListBox| 控件使您得以向用户显示一列项，用户可通过单击选择这些项。 \verb|ListBox| 控件可使用 \verb|SelectionMode| 属性提供单项选择或多重选择。
+		\item[RatioButton] 选项按钮
+		
+			\verb|RadioButton| 控件可以显示文本、\verb|Image| 或同时显示两者。
+			当用户选择一个组内的一个选项按钮（也称作单选按钮）时，其他选项按钮自动清除。 给定容器（如 \verb|Form|）中的所有 \verb|RadioButton| 控件构成一个组。 若要在一个窗体上创建多个组，请将每个组放在它自己的容器（例如 \verb|GroupBox| 或 \verb|Panel| 控件）中。
+	\end{itemize}
+\begin{figure}
+\centering
+\includegraphics[width=1\linewidth]{./PIC/ComboBox}
+\caption{CSharp Windows Form控件：组合框教学}
+\label{fig:ComboBox}
+\end{figure}
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{./PIC/ComboBoxO}
+\caption{CSharp Windows Form控件：组合框运行结果}
+\label{fig:ComboBoxO}
+\end{figure}
+
+\end{enumerate}
 \end{document}          
