@@ -132,6 +132,8 @@ used for moving network functions to the edge (with the core
 performing traditional IP forwarding), thus enabling network  
 virtualization [112].  
 
+软件交换机是一种非常有潜力的数据中心与网络基础设施虚拟化解决方案。
+
 An interesting observation is the number of small, startup  
 enterprises devoted to SDN, such as Big Switch, Pica8,  
 Cyan, Plexxi, and NoviFlow. This seems to imply that SDN is  
