@@ -1,7 +1,7 @@
 #	Software-Defined Networking: A Comprehensive Survey
 
-Diego Kreutz, Member, IEEE, Fernando M. V. Ramos, Member, IEEE, Paulo Verissimo, Fellow, IEEE,
-Christian Esteve Rothenberg, Member, IEEE, Siamak Azodolmolky, Senior Member, IEEE,
+Diego Kreutz, Member, IEEE, Fernando M. V. Ramos, Member, IEEE, Paulo Verissimo, Fellow, IEEE,  
+Christian Esteve Rothenberg, Member, IEEE, Siamak Azodolmolky, Senior Member, IEEE,  
 and Steve Uhlig, Member, IEEE
 
 ##	SOFTWARE-DEFINED NETWORKS: BOTTOM-UP
