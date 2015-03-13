@@ -144,4 +144,13 @@ or “whitebox switches”, where the software and hardware are
 sold separately and the end-user is free to load an operating  
 system of its choice [151].  
 
+一个有趣的现象是，有一批小的创业公司投身于 SDN 之中，例如 Big Switch, Pica8, Cyan, Plexxi 与 NoviFlow. 看起来 SDN 正在如愿成为一个充满竞争的开放网络市场。由 SDN 触发的这种开放导致的另一个结果是 "bare metal switches" 或 "whitebox switch" 的出现。他们使得软件与硬件可以分开出售，终端用户可以自由配置加载的操作系统。
+
 ###	Layer II: Southbound Interfaces
+
+Southbound interfaces (or southbound APIs) are the connecting  
+bridges between control and forwarding elements, thus  
+being the crucial instrument for clearly separating control and  
+data plane functionality. However, these APIs are still tightly  
+tied to the forwarding elements of the underlying physical or  
+virtual infrastructure.  
