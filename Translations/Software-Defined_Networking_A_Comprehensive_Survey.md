@@ -132,7 +132,7 @@ used for moving network functions to the edge (with the core
 performing traditional IP forwarding), thus enabling network  
 virtualization [112].  
 
-软件交换机是一种非常有潜力的数据中心与网络基础设施虚拟化解决方案 [147], [148], [149]。它的实现包括 Switch Light [145], ofsoftswitch13 [141], Open vSwitch [142], OpenFlow Reference [143], Pica8 [150] 以及 XorPlus [46].
+软件交换机是一种非常有潜力的数据中心与网络基础设施虚拟化解决方案 [147], [148], [149]。它的实现包括 Switch Light [145], ofsoftswitch13 [141], Open vSwitch [142], OpenFlow Reference [143], Pica8 [150] 以及 XorPlus [46]. 近期有报告显示，数据中心中虚拟接入端口的数量已经超过物理接入端口 [149]。网络虚拟化是这种趋势的幕后推手之一。以 Open vSwitch 为例的软交换机将传统 IP 传发中处于中心位置的功能移动到边缘，使得网络虚拟化成为可能 [112]。
 
 An interesting observation is the number of small, startup  
 enterprises devoted to SDN, such as Big Switch, Pica8,  
