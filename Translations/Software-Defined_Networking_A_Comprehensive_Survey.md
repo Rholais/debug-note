@@ -154,3 +154,5 @@ being the crucial instrument for clearly separating control and
 data plane functionality. However, these APIs are still tightly  
 tied to the forwarding elements of the underlying physical or  
 virtual infrastructure.  
+
+南向接口（或者叫南向API）是控制部件与转发部件之间的联系，是将控制层与数据层的功能分开的重要器件。
