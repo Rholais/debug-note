@@ -155,4 +155,20 @@ data plane functionality. However, these APIs are still tightly
 tied to the forwarding elements of the underlying physical or  
 virtual infrastructure.  
 
-南向接口（或者叫南向API）是控制部件与转发部件之间的联系，是将控制层与数据层的功能分开的重要器件。
+南向接口（或者叫南向API）是控制部件与转发部件之间的联系，是将控制层与数据层的功能分开的重要器件。然而，这些 API 对底层的物理与虚拟设施具有深度的依赖。
+
+Typically, a new switch can take two years to be ready for  
+commercialization if built from scratch, with upgrade cycles  
+that can take up to nine months. The software development for  
+a new product can take from six months to one year [152]. The  
+initial investment is high and risky. As a central component  
+of its design the southbound APIs represent one of the  
+major barriers for the introduction and acceptance of any new  
+networking technology. In this light, the emergence of SDN  
+southbound API proposals such as OpenFlow [9] is seen as  
+welcome by many in the industry. These standards promote  
+interoperability, allowing the deployment of vendor-agnostic  
+network devices. This has already been demonstrated by the  
+interoperability between OpenFlow-enabled equipments from  
+different vendors.  
+
