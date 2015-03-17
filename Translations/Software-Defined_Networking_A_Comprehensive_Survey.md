@@ -172,4 +172,4 @@ network devices. This has already been demonstrated by the
 interoperability between OpenFlow-enabled equipments from  
 different vendors.  
 
-一般一个新的交换机从草稿到商业化需要两年时间，如果仅仅是升级的话仅需要九个月。
+一般一个新的交换机从草稿到商业化需要两年时间，如果仅仅是升级的话仅需要九个月。新产品的软件开发需要6个月到1年 [152]。
